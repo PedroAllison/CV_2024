@@ -1,0 +1,36 @@
+/* styles.css */
+
+/* Resetando margens e preenchimentos padrão */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    color: rgb(0, 0, 0); /* Cor do texto */
+    padding: 20px; /* Espaçamento interno */
+    text-align: center; /* Centraliza o texto */
+}
+
+h1 {
+    font-size: 24px; /* Tamanho do título principal */
+}
+
+h2 {
+    color: #333; /* Cor dos subtítulos */
+}
+
+section {
+    margin: 20px; /* Margem externa para seções */
+}
+
+ul {
+    list-style-type: square; /* Tipo de marcador das listas */
+}
+
+footer {
+    text-align: center; /* Centraliza o texto do rodapé */
+    padding: 10px; /* Espaçamento interno do rodapé */
+    background-color: #f1f1f1; /* Cor de fundo do rodapé */
+}
